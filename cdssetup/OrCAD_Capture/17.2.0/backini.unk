@@ -1,0 +1,7 @@
+[Part Management]
+Configuration File=D:\OrCAD\tools\Capture\Samples\BENCHACC.DBC
+DemoConfiguration File=D:\OrCAD\tools\Capture\Samples\DemoBENCHACC.DBC
+[Footprint Viewer Type]
+Type=Allegro
+[Allegro Footprints]
+Dir0=D:\OrCAD\share\pcb\pcb_lib\symbols
